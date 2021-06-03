@@ -42,7 +42,7 @@ public class Bank {
         case 2:
             System.out.println("Realizar transaccion");
             System.out.println("------------------------------------");
-             moneyMakeTransaction(); 
+             moneyMakeTransaction();
         break;
         case 3:
             System.out.println("Retirar dinero");
@@ -79,7 +79,7 @@ public class Bank {
     public static void moneyMakeTransaction(){
         int id = Integer.valueOf(readConsole("Key: "));
         double money = Double.valueOf(readConsole("Dinero a depositar: "));
-        users.get(id-1).setMoney(users.get(id-1).getMoney() + money);
+        users.get(id-1).setMoney(users.get(id-1).getMoney() + money);//
     }
     public static void moneyWithdrawal(){
         int id = Integer.valueOf(readConsole("Key: "));
