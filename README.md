@@ -8,3 +8,4 @@
 
 * Natalia Ramírez capturas:
 ![](https://github.com/kathmoralest/Taller02-AspectJ/blob/d0dd9c07bb2ddf4d650bf4b6c273f9b28b7b52e2/2021-06-03.png)
+![](https://github.com/kathmoralest/Taller02-AspectJ/blob/4ea87d0ed7b006c8609ad475ec92dd831a7f4649/2021-06-03%20(1).png)
