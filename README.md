@@ -5,3 +5,6 @@
 * Lizbeth Peña capturas:
 ![taller02_1](https://user-images.githubusercontent.com/73801237/120692038-db519100-c46c-11eb-91ad-ef47315eaaa8.PNG)
 ![taller02_2](https://user-images.githubusercontent.com/73801237/120692398-531fbb80-c46d-11eb-86af-78f6824f3b67.PNG)
+
+* Natalia Ramírez capturas:
+![](https://github.com/kathmoralest/Taller02-AspectJ/blob/d0dd9c07bb2ddf4d650bf4b6c273f9b28b7b52e2/2021-06-03.png)
